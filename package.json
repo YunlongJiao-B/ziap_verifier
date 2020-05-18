@@ -1,0 +1,55 @@
+{
+  "name": "@zentertain/ziap_verifier",
+  "description": "zentertain iap verifier",
+  "version": "2.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zentertain/ziap_verifier"
+  },
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register test/test.coffee"
+  },
+  "author": {
+    "name": "Pai Deng",
+    "email": "pai.deng@zentertain.net"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "coffee-script": "^1.9.2",
+    "iab_verifier": "^0.1.2",
+    "iap_verifier": "0.0.11",
+    "lodash": "^3.8.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "should": "^6.0.1"
+  },
+  "gitHead": "3953faf91dd13a290edd79258c02dc99c180a6ea",
+  "bugs": {
+    "url": "https://github.com/Zentertain/ziap_verifier/issues"
+  },
+  "homepage": "https://github.com/Zentertain/ziap_verifier",
+  "_id": "@zentertain/ziap_verifier@2.1.0",
+  "_shasum": "bd756fd3ea027de796c52d2a59794f201f2fea03",
+  "_from": "@zentertain/ziap_verifier@2.1.0",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "zentertain",
+    "email": "dev@zentertain.net"
+  },
+  "dist": {
+    "shasum": "bd756fd3ea027de796c52d2a59794f201f2fea03",
+    "tarball": "http://registry.npmjs.org/@zentertain/ziap_verifier/-/ziap_verifier-2.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "zentertain",
+      "email": "dev@zentertain.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@zentertain/ziap_verifier/-/ziap_verifier-2.1.0.tgz"
+}
